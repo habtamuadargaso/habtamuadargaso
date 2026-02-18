@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Habtamu Dargaso  
 
-<!--
-**habtamuadargaso/habtamuadargaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Scientist | Machine Learning Engineer | AI Specialist**
 
-Here are some ideas to get you started:
+I hold dual Master’s degrees in **Data Science** and **Artificial Intelligence**, along with a Bachelor’s degree in **Automotive Engineering**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical machine learning and analytics solutions that turn raw data into real-world business impact.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔧 Predictive Maintenance ML  
+Machine failure prediction using industrial dataset with full ML workflow.  
+👉 https://github.com/habtamuadargaso/predictive-maintenance-ml  
+
+### 🛒 E-Commerce Customer Analytics  
+Cleaning and analyzing transactional retail data for business insights and segmentation.  
+👉 https://github.com/habtamuadargaso/ecommerce-analytics  
+
+---
+
+## 🧰 Skills
+
+Python • SQL • Scikit-learn • Pandas • NumPy  
+Machine Learning • Predictive Modeling • Data Analysis  
+Visualization • Tableau • Data Storytelling  
+
+---
+
+## 📍 Location
+Seattle, WA  
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
