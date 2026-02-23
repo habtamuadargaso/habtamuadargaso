@@ -21,7 +21,9 @@ Cleaning and analyzing transactional retail data for business insights and segme
 
 ### Predictive Maintenance Streamlit App 
 End-to-end ML web app predicting industrial machine failure risk using Streamlit and scikit-learn.
-https://predictive-maintenance-app-mmvekivq54jgrdehkwyaxz.streamlit.app/
+
+👉 https://predictive-maintenance-app-mmvekivq54jgrdehkwyaxz.streamlit.app/
+
 ---
 
 ## 🧰 Skills
