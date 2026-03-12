@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Status](https://img.shields.io/badge/Status-Deployed-success)
+
 # 👋 Hi, I'm Habtamu Dargaso
 
 🎯 **Data Scientist | Machine Learning Engineer | AI Enthusiast**
