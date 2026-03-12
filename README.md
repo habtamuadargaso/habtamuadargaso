@@ -3,6 +3,12 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Status](https://img.shields.io/badge/Status-Deployed-success)
 
+## 🚀 Live Demo
+
+[Open the App](https://customer-churn-prediction-app-smeh39w62yabmyb5krduct.streamlit.app/)
+
+[![Open App](https://img.shields.io/badge/Live-Demo-green)](https://customer-churn-prediction-app-smeh39w62yabmyb5krduct.streamlit.app/)
+
 # 👋 Hi, I'm Habtamu Dargaso
 
 🎯 **Data Scientist | Machine Learning Engineer | AI Enthusiast**
