@@ -8,35 +8,47 @@ I build practical machine learning and analytics solutions that turn raw data in
 
 ---
 
+
 ## 🚀 Featured Projects
 
-### 🔧 Predictive Maintenance ML  
-Machine failure prediction using industrial dataset with full ML workflow.  
-👉 https://github.com/habtamuadargaso/predictive-maintenance-ml  
+### Customer Churn Prediction Dashboard
+Machine learning application predicting telecom customer churn with explainable insights.
 
-### 🛒 E-Commerce Customer Analytics  
-Cleaning and analyzing transactional retail data for business insights and segmentation.  
-👉 https://github.com/habtamuadargaso/ecommerce-analytics  
+Live Demo  
+https://customer-churn-prediction-app-smeh39w62yabmyb5krduct.streamlit.app/
 
-
-### 🔧🤖  Predictive Maintenance Streamlit App 
-End-to-end ML web app predicting industrial machine failure risk using Streamlit and scikit-learn.
-
-👉 https://predictive-maintenance-app-mmvekivq54jgrdehkwyaxz.streamlit.app/
+GitHub Repo  
+https://github.com/habtamuadargaso/customer-churn-prediction-app
 
 ---
 
-## 🧰 Skills
-
-Python • SQL • Scikit-learn • Pandas • NumPy  
-Machine Learning • Predictive Modeling • Data Analysis  
-Visualization • Tableau • Data Storytelling  
+### Predictive Maintenance ML Dashboard
+Predict machine failures using machine learning to reduce industrial downtime.
 
 ---
 
-## 📍 Location
-Seattle, WA  
+### Customer Analytics Dashboard
+Data visualization and analytics dashboard exploring customer behavior patterns.
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+## 🧠 Skills
+
+Python  
+SQL  
+Pandas  
+Machine Learning  
+Scikit-learn  
+Data Visualization  
+Streamlit  
+Tableau  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn  
+https://www.linkedin.com
+
+GitHub  
+https://github.com/habtamuadargaso
